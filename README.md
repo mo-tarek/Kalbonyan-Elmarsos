@@ -48,29 +48,29 @@ It's an Egyptian non-profit organization that help people to improve their caree
 
 # Learn HTML & CSS 
 
-- Build Responsive Real-World Websites with HTML and CSS
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 
 ----
 
 # Learn JavaScript 
 
-- The Complete JavaScript Course 2023: From Zero to Expert!
-- 20 Web Projects With Vanilla JavaScript 
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+- [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 ----
 
 # Learn MERN Stack 
 
-- React - The Complete Guide (incl Hooks, React Router, Redux)
-- Node.js, Express, MongoDB & More: The Complete Bootcamp 2023
-- MERN Stack Course 2022 - MongoDB, Express, React and NodeJS
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/course/nodejs-the-complete-guide/)
+- [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/)
 
 ----
 
 # Learn about Cloud Provider and Serverless
 
-- AWS Certified Cloud Practitioner (CLF-C01)
-- Serverless Functions with Netlify
+- [AWS Certified Cloud Practitioner (CLF-C01)](https://acloud.guru/overview/aws--certified-cloud-practitioner)
+- [Serverless Functions with Netlify](https://www.youtube.com/watch?v=AfAZ33XjIBU&feature=youtu.be&ab_channel=CodingAddict)
 
 ----
 
