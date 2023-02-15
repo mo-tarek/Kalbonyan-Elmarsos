@@ -76,9 +76,9 @@ It's an Egyptian non-profit organization that help people to improve their caree
 ----
 
 # Expectations 
-- __First Exam__: after 1 month => HTML & CSS Project 
-- __Second Exam__: after 3 months => HTML, CSS, JavaScript
-- Upload all programming **challenges, quizzes, exercises and projects** with a ***live demo*** on github 
+- __First Exam__: after 1 month &rarr; HTML & CSS Project 
+- __Second Exam__: after 3 months &rarr; HTML, CSS, JavaScript
+- Upload all programming **Challenges, Quizzes, Exercises and Projects** with a ***Live Demo*** on github 
 * Upload the following certifications: 
     - **Udemy**: 6 Certifications 
     - **Cloud Guru**: 2 Certifications
