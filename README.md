@@ -32,12 +32,33 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - Programming Foundations: Version Control with Git
 - Programming Foundations: Fuzzy Logic
 - Programming Foundations: Conducting Code Reviews
-- 
 
 ----
 
 # Learn HTML & CSS 
 
 - Build Responsive Real-World Websites with HTML and CSS
+
+----
+
+# Learn JavaScript 
+
+- The Complete JavaScript Course 2023: From Zero to Expert!
+- 20 Web Projects With Vanilla JavaScript 
+
+----
+
+# Learn MERN Stack 
+
+- React - The Complete Guide (incl Hooks, React Router, Redux)
+- Node.js, Express, MongoDB & More: The Complete Bootcamp 2023
+- MERN Stack Course 2022 - MongoDB, Express, React and NodeJS
+
+----
+
+# Learn about Cloud Provider and Serverless
+
+- AWS Certified Cloud Practitioner (CLF-C01)
+- Serverless Functions with Netlify
 
 
