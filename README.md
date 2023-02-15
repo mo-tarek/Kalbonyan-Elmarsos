@@ -38,7 +38,8 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - Programming Foundations: Fuzzy Logic `41m 50s`
 - Programming Foundations: Conducting Code Reviews `1h 19m`
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="20" role="img" aria-label="Total Number Of Hours For This Courses: 24h27m"><title>Total Number Of Hours For This Courses: 24h27m</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="288" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="233" height="20" fill="#555"/><rect x="233" width="55" height="20" fill="#007ec6"/><rect width="288" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="1175" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="2230">Total Number Of Hours For This Courses</text><text x="1175" y="140" transform="scale(.1)" fill="#fff" textLength="2230">Total Number Of Hours For This Courses</text><text aria-hidden="true" x="2595" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">31h 53m 51s</text><text x="2595" y="140" transform="scale(.1)" fill="#fff" textLength="450">24h27m</text></g></svg>
+![Image](https://camo.githubusercontent.com/53469b12a279b834b326131045b2d71695403f05f7b2be2f578848b3cad0d223/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f74616c2532304e756d6265722532304f66253230486f757273253230466f7225323054686973253230436f75727365732d32346832376d2d626c7565)
+)
 
 ----
 
