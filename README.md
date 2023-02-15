@@ -73,7 +73,6 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - Serverless Functions with Netlify
 
 ----
-----
 
 # Expectations 
 - __First Exam__: after 1 month &rarr; HTML & CSS Project 
