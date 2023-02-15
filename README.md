@@ -89,7 +89,7 @@ It's an Egyptian non-profit organization that help people to improve their caree
 
 ----
 
-More Resources: 
+# More Resources: 
 
 - FreeCodeCamp Curriculum
 - Brad Traversy Roadmap 
