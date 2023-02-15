@@ -69,9 +69,9 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - **Second Exam**: after 3 months => HTML, CSS, JavaScript
 - Upload all programming challenges, quizzes, exercises and projects with a live demo on github 
 * Upload the following certifications: 
-1. Udemy: 6 Certifications 
-2. Cloud Guru: 2 Certifications
-3. Linkedin Learning: 2 Certifications
+    - Udemy: 6 Certifications 
+    - Cloud Guru: 2 Certifications
+    - Linkedin Learning: 2 Certifications
 - Make your own Portfolio (example)
 - Make a linkedin profile (with all projects and certifications)
 - Make you own CV (example)
