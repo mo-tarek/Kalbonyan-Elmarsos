@@ -36,7 +36,7 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - [Programming Foundations: Open-Source Licensing](https://www.linkedin.com/learning/programming-foundations-open-source-licensing) `53m 28s`
 - [Programming Foundations: Version Control with Git](https://www.linkedin.com/learning/programming-foundations-version-control-with-git) `1h 20m`
 - [Programming Foundations: Fuzzy Logic](https://www.linkedin.com/learning/programming-foundations-fuzzy-logic) `41m 50s`
-- Programming Foundations: Conducting Code Reviews `1h 19m`
+- [Programming Foundations: Conducting Code Reviews](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews) `1h 19m`
 
 ![Image](https://camo.githubusercontent.com/53469b12a279b834b326131045b2d71695403f05f7b2be2f578848b3cad0d223/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f74616c2532304e756d6265722532304f66253230486f757273253230466f7225323054686973253230436f75727365732d32346832376d2d626c7565)
 
