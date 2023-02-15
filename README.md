@@ -18,25 +18,25 @@ It's an Egyptian non-profit organization that help people to improve their caree
 
 # Programming Fundamentals
 
-- `2h 6m 40s` Programming Foundations: Fundamentals
-- Programming Foundations: Beyond the Fundamentals
-- Programming Foundations: Real-World Examples
-- Programming Foundations: Object-Oriented Design
-- Programming Foundations: Algorithms
-- Programming Foundations: Data Structures
-- Programming Foundations: Design Patterns
-- Programming Foundations: Databases
-- Programming Foundations: Memory, Pointers, and Garbage Collection
-- Programming Foundations: APIs and Web Services
-- Programming Foundations: Secure Coding
-- Programming Foundations: Test-Driven Development
-- Programming Foundations: Software Testing/QA
-- Programming Foundations: Discrete Mathematics
-- Programming Foundations: Numerical Mathematics and Calculations
-- Programming Foundations: Open-Source Licensing
-- Programming Foundations: Version Control with Git
-- Programming Foundations: Fuzzy Logic
-- Programming Foundations: Conducting Code Reviews
+- Programming Foundations: Fundamentals `2h 6m 40s`
+- Programming Foundations: Beyond the Fundamentals `2h 4m 44s`
+- Programming Foundations: Real-World Examples `3h 8m`
+- Programming Foundations: Object-Oriented Design `2h 40m 37s`
+- Programming Foundations: Algorithms `1h 45m 30s`
+- Programming Foundations: Data Structures `2h 20m 56s`
+- Programming Foundations: Design Patterns `1h 44m 23s`
+- Programming Foundations: Databases `1h 25m 15s`
+- Programming Foundations: Memory, Pointers, and Garbage Collection `1h 29m`
+- Programming Foundations: APIs and Web Services `1h 14m 28s`
+- Programming Foundations: Secure Coding `1h 34m`
+- Programming Foundations: Test-Driven Development `53m 51s`
+- Programming Foundations: Software Testing/QA `53m 51s`
+- Programming Foundations: Discrete Mathematics `3h 10m`
+- Programming Foundations: Numerical Mathematics and Calculations `2h 9m`
+- Programming Foundations: Open-Source Licensing `53m 28s`
+- Programming Foundations: Version Control with Git `1h 20m`
+- Programming Foundations: Fuzzy Logic `41m 50s`
+- Programming Foundations: Conducting Code Reviews `1h 19m`
 
 ----
 
