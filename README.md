@@ -87,3 +87,10 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - Make you own __CV__ (example)
 - __Final Project__: MERN Stack Project 
 
+----
+
+More Resources: 
+
+- FreeCodeCamp Curriculum
+- Brad Traversy Roadmap 
+- Roadmap.sh Curriculum
