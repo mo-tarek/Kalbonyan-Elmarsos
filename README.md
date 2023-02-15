@@ -18,24 +18,24 @@ It's an Egyptian non-profit organization that help people to improve their caree
 
 # Programming Fundamentals
 
-- Programming Foundations: Fundamentals `2h 6m 40s`
-- Programming Foundations: Beyond the Fundamentals `2h 4m 44s`
-- Programming Foundations: Real-World Examples `3h 8m`
-- Programming Foundations: Object-Oriented Design `2h 40m 37s`
-- Programming Foundations: Algorithms `1h 45m 30s`
-- Programming Foundations: Data Structures `2h 20m 56s`
-- Programming Foundations: Design Patterns `1h 44m 23s`
-- Programming Foundations: Databases `1h 25m 15s`
-- Programming Foundations: Memory, Pointers, and Garbage Collection `1h 29m`
-- Programming Foundations: APIs and Web Services `1h 14m 28s`
-- Programming Foundations: Secure Coding `1h 34m`
-- Programming Foundations: Test-Driven Development `53m 51s`
-- Programming Foundations: Software Testing/QA `53m 51s`
-- Programming Foundations: Discrete Mathematics `3h 10m`
-- Programming Foundations: Numerical Mathematics and Calculations `2h 9m`
-- Programming Foundations: Open-Source Licensing `53m 28s`
-- Programming Foundations: Version Control with Git `1h 20m`
-- Programming Foundations: Fuzzy Logic `41m 50s`
+- [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `2h 6m 40s`
+- [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `2h 4m 44s`
+- [Programming Foundations: Real-World Examples](https://www.linkedin.com/learning/programming-foundations-real-world-examples?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `3h 8m`
+- [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `2h 40m 37s`
+- [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `1h 45m 30s`
+- [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `2h 20m 56s`
+- [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `1h 44m 23s`
+- [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `1h 25m 15s`
+- [Programming Foundations: Memory, Pointers, and Garbage Collection](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `1h 29m`
+- [Programming Foundations: APIs and Web Services](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `1h 14m 28s`
+- [Programming Foundations: Secure Coding](https://www.linkedin.com/learning/programming-foundations-secure-coding?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `1h 34m`
+- [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `53m 51s`
+- [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) `53m 51s`
+- [Programming Foundations: Discrete Mathematics](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics) `3h 10m`
+- [Programming Foundations: Numerical Mathematics and Calculations](https://www.linkedin.com/learning/programming-foundations-numerical-mathematics-and-calculations) `2h 9m`
+- [Programming Foundations: Open-Source Licensing](https://www.linkedin.com/learning/programming-foundations-open-source-licensing) `53m 28s`
+- [Programming Foundations: Version Control with Git](https://www.linkedin.com/learning/programming-foundations-version-control-with-git) `1h 20m`
+- [Programming Foundations: Fuzzy Logic](https://www.linkedin.com/learning/programming-foundations-fuzzy-logic) `41m 50s`
 - Programming Foundations: Conducting Code Reviews `1h 19m`
 
 ![Image](https://camo.githubusercontent.com/53469b12a279b834b326131045b2d71695403f05f7b2be2f578848b3cad0d223/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f74616c2532304e756d6265722532304f66253230486f757273253230466f7225323054686973253230436f75727365732d32346832376d2d626c7565)
