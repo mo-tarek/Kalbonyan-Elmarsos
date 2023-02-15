@@ -61,4 +61,19 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - AWS Certified Cloud Practitioner (CLF-C01)
 - Serverless Functions with Netlify
 
+----
+----
+
+# Expectations 
+- **First Exam**: after 1 month => HTML & CSS Project 
+- **Second Exam**: after 3 months => HTML, CSS, JavaScript
+- Upload all programming challenges, quizzes, exercises and projects with a live demo on github 
+- Upload the following certifications: 
+..- Udemy: 6 Certifications 
+..- Cloud Guru: 2 Certifications
+..- Linkedin Learning: 2 Certifications
+- Make your own Portfolio (example)
+- Make a linkedin profile (with all projects and certifications)
+- Make you own CV (example)
+- Final Project: MERN Stack Project 
 
