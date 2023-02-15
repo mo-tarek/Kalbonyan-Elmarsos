@@ -18,7 +18,7 @@ It's an Egyptian non-profit organization that help people to improve their caree
 
 # Programming Fundamentals
 
-- Programming Foundations `2h 6m 40s`: Fundamentals
+- `2h 6m 40s` Programming Foundations: Fundamentals
 - Programming Foundations: Beyond the Fundamentals
 - Programming Foundations: Real-World Examples
 - Programming Foundations: Object-Oriented Design
