@@ -75,8 +75,8 @@ It's an Egyptian non-profit organization that help people to improve their caree
     - Udemy: 6 Certifications 
     - Cloud Guru: 2 Certifications
     - Linkedin Learning: 2 Certifications
-- Make your own Portfolio (example)
-- Make a linkedin profile (with all projects and certifications)
-- Make you own CV (example)
+- Make your own __Portfolio__ (example)
+- Make a __linkedin__ profile (with all projects and certifications)
+- Make you own __CV__ (example)
 - __Final Project__: MERN Stack Project 
 
