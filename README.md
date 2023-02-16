@@ -87,10 +87,10 @@ It's an Egyptian non-profit organization that help people to improve their caree
 
 # More Resources
 
-- FreeCodeCamp Curriculum
-- Brad Traversy Roadmap 
-- Roadmap.sh Curriculum
-- Elzero Web School Roadmap [Backend]
+- [FreeCodeCamp Curriculum](https://www.freecodecamp.org/learn/?messages=success%5B0%5D%3Dflash.signin-success)
+- [Brad Traversy Roadmap](https://www.youtube.com/watch?v=EqzUcMzfV1w&pp=ygUiYnJhZCB0cmF2ZXJzeSB3ZWIgZGV2ZWxvcG1lbnQgMjAyMg%3D%3D)
+- [Roadmap.sh Curriculum](https://roadmap.sh/)
+- [Elzero Web School Roadmap](https://elzero.org/#) [Backend]
 
 ----
 
