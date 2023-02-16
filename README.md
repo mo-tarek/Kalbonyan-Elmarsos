@@ -91,4 +91,11 @@ It's an Egyptian non-profit organization that help people to improve their caree
 - Brad Traversy Roadmap 
 - Roadmap.sh Curriculum
 - Elzero Web School Roadmap [Backend]
+
+----
+
+# Contact Information
 - [Kalbonyan-Elmarsos Official Website](https://www.albonyanalmarsos.org/)
+- [Kalbonyan-Elmarsos Official Linkedin Page](https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/about/)
+- [Kalbonyan-Elmarsos Official Telegram Channel](https://lnkd.in/gyHc4tid)
+- [Kalbonyan-Elmarsos Official YouTube channel](https://www.youtube.com/@user-cz6td9yf8n)
