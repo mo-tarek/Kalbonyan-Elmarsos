@@ -2,6 +2,7 @@
 
 1. Welcome and first steps 
   - Frond-end VS. Backend Development
+  - The 3 Languages of the front-end 
 2. HTML fundamentals 
 3. CSS fundamentals 
 4. Building Layouts 
