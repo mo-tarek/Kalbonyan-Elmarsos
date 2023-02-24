@@ -1,6 +1,7 @@
 # Table of Contents 
 
 1. Welcome and first steps 
+  - Frond-end VS. Backend Development
 2. HTML fundamentals 
 3. CSS fundamentals 
 4. Building Layouts 
@@ -12,3 +13,33 @@
 
 # Course Info
 - [Course Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/#instructor-1)
+
+
+# TODO:
+- Udemy Clone 
+- Netflix Clone 
+- Spotify Clone 
+- Facebook Clone 
+- SpaceX Clone 
+- YouTube Clone 
+- Tesla Clone 
+- Uber Clone 
+- Google Clone 
+- Hulu Clone 
+- Whatsapp Clone 
+- Linkedin Clone 
+- Gmail Clone 
+- Snapchat Clone 
+- Signal Clone 
+- Slack Clone 
+- Google Docs Clone 
+- Instagram Clone 
+- Tinder Clone 
+- Medium Clone 
+- Twitter Clone 
+- Reddit Clone 
+- Delivroo Clone 
+- Amazon Clone 
+- Airbnb Clone 
+- Messanger Clone 
+- Ebay clone 
