@@ -33,6 +33,7 @@
 - Signal Clone 
 - Slack Clone 
 - Google Docs Clone 
+- Flipkart Clone 
 - Instagram Clone 
 - Tinder Clone 
 - Medium Clone 
@@ -43,3 +44,15 @@
 - Airbnb Clone 
 - Messanger Clone 
 - Ebay clone 
+- Starbuks Clone 
+- Apple
+- Nvidia 
+- Razar 
+- Salesforce 
+- Adobe 
+- Microsoft 
+- Blockchain 
+- Paypal 
+- Discord 
+- Playstation
+- Nintendo
