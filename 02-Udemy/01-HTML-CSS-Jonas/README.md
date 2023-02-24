@@ -59,3 +59,4 @@
 - Yelp Clone 
 - Uber Eats Clone 
 - Flickr Clone
+- Ferrari Clone 
