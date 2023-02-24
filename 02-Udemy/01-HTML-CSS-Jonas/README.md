@@ -45,14 +45,17 @@
 - Messanger Clone 
 - Ebay clone 
 - Starbuks Clone 
-- Apple
-- Nvidia 
-- Razar 
-- Salesforce 
-- Adobe 
-- Microsoft 
-- Blockchain 
-- Paypal 
-- Discord 
-- Playstation
-- Nintendo
+- Apple Clone 
+- Nvidia Clone 
+- Razar Clone
+- Salesforce Clone 
+- Adobe Clone 
+- Microsoft Clone 
+- Blockchain Clone 
+- Paypal Clone 
+- Discord Clone 
+- Playstation Clone 
+- Nintendo Clone 
+- Yelp Clone 
+- Uber Eats Clone 
+- Flickr Clone
