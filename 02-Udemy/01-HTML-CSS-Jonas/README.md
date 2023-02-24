@@ -60,3 +60,13 @@
 - Uber Eats Clone 
 - Flickr Clone
 - Ferrari Clone 
+- Nike Clone 
+- Other Ideas 
+  - Personal Website 
+  - Tribute Page 
+  - Survey Form
+  - Landing Page 
+  - Event Page 
+  - Restaurant Website 
+  - Video-Sharing website 
+  - Parallex Website 
