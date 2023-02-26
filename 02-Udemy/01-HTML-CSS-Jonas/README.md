@@ -122,7 +122,46 @@
 - design a paste bin
 
 
-
+## Competitive programming & problem solving 
+- usaco 
+- sheets 
+  - dr. mostafa saad sheets 
+  - assuit sheet 
+- codeforces 
+- codechef
+- acm/icpc 
+- hackerrank 
+- leetcode 
+- atcoder 
+- topcoder
+- rosetta stone 
+- edabit 
+- codewars 
+- hackerearth 
+- beecrowd (Formerly URI)
+- StopStalk
+- coderbyte 
+- project euler
+- spoj
+- codingame 
+- GeeksforGeeks (Popularly known as GFG)
+- Toph
+- LightOJ
+- CodersRank
+- codegym
+- codepen challenges**
+- facebook hackercup 
+- Exercism
+- Reply Challenges
+- codingbat 
+- CodeSignal
+- Online Judge (Commonly known as UVa)
+- neetcode 
+- a2oj 
+- google competitions 
+  - codejam 
+  - hashcode 
+  - kickstart 
 ## Key Topics 
 - Machine Learning System Design Interview
 - System Design Interview
@@ -133,7 +172,13 @@
 - design gurus 
 - educative 
 
-
+## tools 
+- geogebra
+- blender
+- how to make infographics, demos & grahpics like: 
+  - 3blue1brown
+  - anahr 
+  - alxu
 ## social media 
 - linkedin 
 - twitter
@@ -144,3 +189,8 @@
   - dev.to 
 - github 
 - stackoverflow
+
+## to follow 
+- engineering blogs 
+- newsletters 
+- experienced tech people 
