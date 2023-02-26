@@ -116,6 +116,10 @@
 - Design payment system 
 - Design digital wallet
 - Design stock exchange 
+- design a traffic control system
+- design an ATM machine
+- design an online game 
+- design a paste bin
 
 
 
@@ -128,3 +132,15 @@
 - bytebytego
 - design gurus 
 - educative 
+
+
+## social media 
+- linkedin 
+- twitter
+- blog
+  - bloger 
+  - medium 
+  - hashnode 
+  - dev.to 
+- github 
+- stackoverflow
