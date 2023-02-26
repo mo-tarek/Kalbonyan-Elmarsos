@@ -21,7 +21,171 @@
 - 100 days of css 
 - 50 projects in 50 days - brad traversy 
 - templates 
-
+- how to [specific topics)
+  - slideshow 
+  - login form
+  - accordion
+  - hover dropdowns 
+  - click dropdowns 
+  - side navigation
+  - fixed sidebar 
+  - modal box 
+  - modal image 
+  - lightbox 
+  - slideshow gallery 
+  - image hover overlay 
+  - tabs 
+  - vertical tabs 
+  - tab image gallery 
+  - alert buttons 
+  - outline buttons 
+  - top navigation
+  - responsive top navigation
+  - fullscreen navigatio
+  - login form in navbar 
+  - change background on scroll 
+  - search bar 
+  - image grid 
+  - dropdown in navbar 
+  - icon bar 
+  - horizontal scroll menu 
+  - bottom navigation
+  - parallex scrolling 
+  - toggle hide show 
+  - image text 
+  - image text blocks 
+  - popups 
+  - sign up form 
+  - contact form 
+  - loaders 
+  - progress bars 
+  - animated buttons 
+  - animated menu icon 
+  - build a website [template]
+  - range sliders 
+  - search menu 
+  - tooltips 
+  - toggle switch 
+  - custom checkbox 
+  - custom select 
+  - tab headers 
+  - countdown timer
+  - social media buttons 
+  - filter lists 
+  - filter tables 
+  - filter elements 
+  - sort lists 
+  - scroll to top button 
+  - image effects 
+  - html includes 
+  - portfolio gallery 
+  - sticky navbar 
+  - fixed menu 
+  - side bar on scroll 
+  - fixed footer 
+  - animated search form 
+  - overlay effect 
+  - alerts 
+  - multi-step form 
+  - grid layout 
+  - autocomplete 
+  - scroll indicator 
+  - fullscreen search 
+  - search button 
+  - zebra stripped table 
+  - image zoom
+  - image magnifier glass 
+  - image comparison slider
+  - cards 
+  - responsive tables 
+  - to-do list 
+  - flip an image 
+  - shake an image 
+  - hero image 
+  - device look 
+  - pill navigation
+  - transparent image text 
+  - browser window
+  - rounded images 
+  - contact chips 
+  - pagination
+  - breadcrumps 
+  - notes 
+  - labels 
+  - circles 
+  - next/previous buttons 
+  - round buttons 
+  - equal height colums 
+  - mega menu 
+  - snackbars/toasts 
+  - sidenav buttons 
+  - copy text to clipboard 
+  - clear input field 
+  - scroll drawing 
+  - star rating 
+  - user rating 
+  - aspect ratio
+  - dropdown in sidenav
+  - timeline 
+  - toggle text 
+  - toggle like/dislike
+  - trigger button click on enter 
+  - add active class 
+  - custom scroll bars 
+  - thumbnails 
+  - testimonials 
+  - split screen 
+  - responsive image 
+  - avatar images 
+  - center image 
+  - center website 
+  - loading buttons 
+  - popup form 
+  - skill bars 
+  - js animations 
+  - sticky image 
+  - responsive header
+  - form on image 
+  - fading buttons 
+  - profile card 
+  - vertical menu 
+  - bottom border navbar 
+  - button group 
+  - vertical button group 
+  - pricing tables 
+  - flip box 
+  - password validation
+  - css arrows 
+  - vertical line 
+  - animated icons 
+  - google fonts 
+  - typewriter 
+  - sticky header
+  - coming soon page 
+  - responsive text 
+  - notification button
+  - draggable html element 
+  - block buttons 
+  - cloasble list items 
+  - chat messages 
+  - fullscreen video backeground 
+  - calendar 
+  - responsive navbar with dropdown
+  - split buttons 
+  - make a website with bootstrap 
+  - hide menu on scroll 
+  - shrink menu on scroll
+  - stick social bar 
+  - responsive form 
+  - checkout form 
+  - comparison table 
+  - black and white image 
+  - register form 
+  - social login
+  - form with icons 
+  - blurred background image 
+  - read more read less 
+  - list grid view
 ## TODO:
 - Udemy Clone 
 - Netflix Clone 
