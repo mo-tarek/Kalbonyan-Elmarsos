@@ -16,7 +16,13 @@
 - [Course Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/#instructor-1)
 
 
-# TODO:
+
+## practice html & css 
+- 100 days of css 
+- 50 projects in 50 days - brad traversy 
+- templates 
+
+## TODO:
 - Udemy Clone 
 - Netflix Clone 
 - Spotify Clone 
