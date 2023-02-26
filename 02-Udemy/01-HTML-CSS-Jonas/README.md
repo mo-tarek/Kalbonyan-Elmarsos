@@ -122,3 +122,9 @@
 ## Key Topics 
 - Machine Learning System Design Interview
 - System Design Interview
+
+## References 
+- algoexpert 
+- bytebytego
+- design gurus 
+- educative 
