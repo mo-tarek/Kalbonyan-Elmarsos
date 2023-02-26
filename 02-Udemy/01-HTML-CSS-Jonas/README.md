@@ -71,3 +71,54 @@
   - Restaurant Website 
   - Video-Sharing website 
   - Parallex Website 
+  
+  
+# TODO: 
+- Design whatsapp or a chat system 
+- Design dropbox 
+- Design facebook messanger 
+- Design twitter
+- Design youtube or netflix
+- Design typehead suggestion
+- Design an api rate limiter
+- Design twitter search
+- Design facebook's newsfeed 
+- Design a web crawler
+- Design yelp or nearby friends
+- Design uber backend 
+- Design ticketmaster 
+- Design blobe store 
+- Design quora 
+- Design google maps 
+- Design instagram 
+- Design a url shortning system 
+- Design google docs 
+- design algoexpert 
+- Design a stockborker
+- Design amazon 
+- Design reddit api 
+- Design google drive 
+- Design the uber api 
+- Design tinder
+- Design slack 
+- Design airbnb 
+- Design the twitch api 
+- Design a notification system 
+- Design consistent hashing 
+- Design a key-value store 
+- Design a unique id generator 
+- Design distributed message queue 
+- Design metrics monitoring and alert system 
+- Design ad click event aggregation
+- Design hotel reservation system 
+- Design s3-like object storage 
+- Design real-time gamming leaderboard 
+- Design payment system 
+- Design digital wallet
+- Design stock exchange 
+
+
+
+## Key Topics 
+- Machine Learning System Design Interview
+- System Design Interview
