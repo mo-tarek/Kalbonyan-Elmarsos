@@ -370,7 +370,7 @@
     - emojis 
     - buildings 
     - 100 days of css
-    - css transition/ animations
+    - css transition/ animations -> 3d or 2d
 ## to follow 
 - engineering blogs 
 - newsletters 
