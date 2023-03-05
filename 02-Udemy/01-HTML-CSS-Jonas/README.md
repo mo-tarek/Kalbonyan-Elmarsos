@@ -368,6 +368,7 @@
     - cartoon or animes characters 
     - cars 
     - emojis 
+    - buildings 
     - 100 days of css
 ## to follow 
 - engineering blogs 
