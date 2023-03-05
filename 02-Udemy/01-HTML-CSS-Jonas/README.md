@@ -360,6 +360,15 @@
 - github 
 - stackoverflow
 
+## Frontend Projects and challenges Sites 
+  - forntend mentor 
+  - css battle 
+  - draw with css 
+    - faces 
+    - cartoon or animes characters 
+    - cars 
+    - emojis 
+    - 100 days of css
 ## to follow 
 - engineering blogs 
 - newsletters 
