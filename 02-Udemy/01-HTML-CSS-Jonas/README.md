@@ -359,6 +359,26 @@
   - dev.to 
 - github 
 - stackoverflow
+- facebook 
+- quora 
+- reddit
+- specialized communities 
+- telegram
+- instagram 
+- youtube 
+- podcasts 
+- conferences
+- pinterest 
+- freecodecamp 
+- hackernoon 
+- hackernews
+- kaggle
+- dev.to
+- google developer groups
+- discord
+- codepen
+- twitch 
+- programming visualizations & memes for fun
 
 ## Frontend Projects and challenges Sites 
   - forntend mentor 
