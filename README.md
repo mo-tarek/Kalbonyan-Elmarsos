@@ -2,7 +2,7 @@
 
 It's an Egyptian non-profit organization that help people to improve their career with constructing an intensive 6-month full-stack program.
 
-![Image]([https://media.licdn.com/dms/image/C4D0BAQGQ5bM113o0MQ/company-logo_200_200/0/1659651876463?e=1684368000&v=beta&t=1XMyi1EVINk_Fd937eT8uN5xnOPwztm-B0OH4j-5uSI](https://media.licdn.com/dms/image/C4D0BAQGQ5bM113o0MQ/company-logo_200_200/0/1659651876463?e=1693440000&v=beta&t=1KUcp8izxOex3sxd05m6FB898rJ0ggPQytpgeU0Pdv8) 
+![Image](https://media.licdn.com/dms/image/C4D0BAQGQ5bM113o0MQ/company-logo_200_200/0/1659651876463?e=1693440000&v=beta&t=1KUcp8izxOex3sxd05m6FB898rJ0ggPQytpgeU0Pdv8)
 
 ### The Aim of The Internship
 
